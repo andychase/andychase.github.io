@@ -9,13 +9,13 @@
 
     <title>Andy Chase's website</title>
 
-    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css' />
+    <link href='http://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css' />
     <link href='http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css' rel='stylesheet' type='text/css' />
 
     <style type="text/css">
     html {
         background-image: url('pipe_tile.jpg');
-        font-family: "Lato", sans-serif;
+        font-family: "Cabin", sans-serif;
         font-size: 10pt;
     }
     body { font-size: 10pt; }
@@ -27,10 +27,10 @@
       margin-top: 150px;
     }
     a, a:hover, a:visited {
-      color: grey;
+      color: #363636;
       font-size: 10pt;
     }
-    ul { list-style: none; padding: 0; }
+    ul { list-style: none; padding: 0; text-align: center; }
     ul li { display: inline-block; margin: 5px; }
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {
      html {

@@ -32,6 +32,11 @@
     }
     ul { list-style: none; padding: 0; }
     ul li { display: inline-block; margin: 5px; }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+     html {
+	  background-size: 140px 140px;
+     }
+    }
     </style>
 </head>
 <body>

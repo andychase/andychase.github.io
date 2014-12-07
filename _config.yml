@@ -1,0 +1,11 @@
+title: Andy Chase's Website
+email: theandychase@gmail.com
+description: > 
+  This is the website version of Andy Chase.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://andychase.me" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown

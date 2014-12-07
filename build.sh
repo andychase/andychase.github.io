@@ -1,1 +1,0 @@
-pandoc --template=index.tpl -i index.md -o index.html

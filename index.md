@@ -11,5 +11,3 @@ Andy Chase
 * [Flickr](http://www.flickr.com/photos/asperous/sets/)
 
 * [Hypem](http://hypem.com/andychase)
-
-* [R&#233;sum&#233;](/files/resume.pdf)

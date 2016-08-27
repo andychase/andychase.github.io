@@ -8,33 +8,62 @@
     <title>Andy Chase's website</title>
 
     <link href='https://fonts.googleapis.com/css?family=Cabin' rel='stylesheet' type='text/css' />
+
     <link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css' rel='stylesheet' type='text/css' />
+
+
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
     <link rel="shortcut icon" href="/favicon.ico">
 
     <style type="text/css">
     html {
-        background-image: url('pipe_tile.jpg');
+        background-image: url('assets/pipe_tile.jpg');
         font-family: "Cabin", sans-serif;
         font-size: 10pt;
     }
     body { font-size: 10pt; }
-    h2 { text-align: center; width: 200px; }
+    a { text-decoration: none; }
+
 
     #c {
-      width: 200px;
+      width: 400px;
       margin: auto;
-      margin-top: 150px;
     }
     a, a:hover, a:visited {
       color: #363636;
       font-size: 10pt;
     }
-    ul { list-style: none; padding: 0; text-align: center; }
+    a:hover {
+      border-bottom: 1px solid;
+    }
+    ul { list-style: none; padding: 0; }
     ul li { display: inline-block; margin: 5px; }
+    img {
+      border-radius: 2px;
+    }
     @media only screen and (-webkit-min-device-pixel-ratio: 2) {
      html {
     background-size: 140px 140px;
      }
+    }
+
+    #social-links, #andy-chase, #my-title {
+      margin-top: 0;
+      margin-bottom: 3px;
+    }
+    .project-item {
+      border: 1px solid #d4d4d4;
+      background-color: white;
+      border-radius: 3px;
+      margin-top: 0;
+      margin-bottom: 0;
+      position: relative;
+    }
+    .project-info {
+      font-size: 9pt;
+      padding-left: 5px;
     }
     </style>
 </head>

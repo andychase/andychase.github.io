@@ -15,6 +15,8 @@ layout: default
 tech product consultant & developer [[upwork]](https://www.upwork.com/freelancers/~01dbdbcc5a2c375fda)
 {: #my-title}
 
+{% include posts.html %}
+
 ## Projects
 
 {% for project in site.data.projects %}

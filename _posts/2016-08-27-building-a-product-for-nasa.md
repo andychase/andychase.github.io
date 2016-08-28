@@ -1,11 +1,11 @@
 ---
 layout: post
-title: NASA wants me to build a product, but is there a need for it?
+title: 5 solvable tech problems researchers have 
 ---
 
 ![Image of Earth](/assets/aria_assets/cover.jpg){: width="400px" height="188px"}
 
-# NASA wants me to build a product, but is there a need for it?
+# What I learned doing Customer Validation for a new NASA product
 
 By [Andy Chase](https://andychase.me) Aug 27, 2016.
 
@@ -35,9 +35,13 @@ It sounded like a good idea, and we started putting together some prototypes of 
 
 ![Image of Earth](/assets/aria_assets/prototype_1.png){: width="225px" height="188px" style="opacity: 0.4; margin: auto; width: 225px; display: block;"}
 
+At this point I came up with the best representation of the product I could to show people what we'd be working on. The client agreed that the prototype and its associated development plan would work well.
 
+Having all the information we needed at this point, this is probably where most engineers would have probably stopped and just began working, but I wanted something that people really needed; not just a toy.
 
 ### Finding customers
+
+![ak observes nature](/assets/aria_assets/ak_observes_nature.jpg){: width="400px" height="188px"}
 
 I started a list of people from the OSU College of Earth, Ocean, and Atmospheric Sciences using the facatly listings page that seemed interested and also asked the office ladies if they had any names. I only got a few names, but after hitting some difficulty getting meeting scheduled I casted a much wider net.
 
@@ -47,6 +51,17 @@ I sent very short emails basically just asking for a meeting and ended up with d
 
 ![Image of Earth](/assets/aria_assets/notes_1.png){: width="400px" height="188px" style="opacity: .9;"}
 
+I learned a few things really quickly from speaking with researchers:
+
+* They love to talk and give their opinion on things
+* Keeping notes was impossible for these long meetings. I quickly switched to audio recording and transcribing which I had learned from my anthropology. This was important for a lot of reasons
+	* I could go back and make connections that I wouldn't have otherwised remembered
+	* Direct quotes was more convincing to my client my general opinion 
+* The researchers generally didn't seem to like talking about my prototypes
+	* When generalizing the topic to see if the problem in general was one they needed solving, they gave me the information I needed
+{: .show-bullets}
+
+### Reporting problems and pivoting
 
 
 

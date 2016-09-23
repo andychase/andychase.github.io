@@ -17,7 +17,7 @@ tech product consultant & developer [[upwork]](https://www.upwork.com/freelancer
 
 {% include posts.html %}
 
-## Employment
+## Employment & Consultancy
 
 {% for job in site.data.employment %}
 -  	{% if job.icon %}

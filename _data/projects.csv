@@ -1,6 +1,6 @@
 name,link,year,type,tech,description,explanation
 shapetape,http://shapetape.andychase.me,2016,Product,"Python, AWS S3",A simple svg hosting service.,
-codebook,https://codebook.snc.io,2016,Product,Python,,
+codebook,https://codebook.andychase.me,2016,Product,Python,,
 radmontage,https://radmontage.com/,2015,Product,"PHP, redis, Youtube API",,
 snapcoin,https://andychase.me/snapcoin,2015,Product,"Scala, blockchain API",,
 dontdrown,https://github.com/andychase/dontdrown,2015,Game,"Scala, jMonkeyEngine3",,

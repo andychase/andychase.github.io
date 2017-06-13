@@ -12,7 +12,7 @@ layout: default
 * [<i class="fa fa-envelope" aria-hidden="true"></i> <theandychase@gmail.com>](mailto:theandychase@gmail.com)
 {: #social-links .inline-list}
 
-tech product consultant & developer [[upwork]](https://www.upwork.com/freelancers/~01dbdbcc5a2c375fda)
+tech product consultant & developer [[upwork]](https://www.upwork.com/freelancers/~01dbdbcc5a2c375fda) [[toptal]](https://www.toptal.com/resume/andrew-chase)
 {: #my-title}
 
 {% include posts.html %}

@@ -1,4 +1,5 @@
 name,link,year,type,tech,description,explanation
+theremotefreelancer,https://theremotefreelancer.com,2017,Content,"Jekyll",A listing of freelancer sites,
 shapetape,http://shapetape.andychase.me,2016,Product,"Python, AWS S3",A simple svg hosting service.,
 codebook,https://codebook.andychase.me,2016,Product,Python,,
 radmontage,https://radmontage.com/,2015,Product,"PHP, redis, Youtube API",,

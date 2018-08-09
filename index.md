@@ -10,9 +10,12 @@ layout: default
 * [<i class="fa fa-flickr" aria-hidden="true"></i>
  flickr](http://www.flickr.com/photos/asperous/sets/)
 * [<i class="fa fa-envelope" aria-hidden="true"></i> <theandychase@gmail.com>](mailto:theandychase@gmail.com)
+* [[upwork]](https://www.upwork.com/freelancers/~01dbdbcc5a2c375fda)
+* [[toptal]](https://www.toptal.com/resume/andrew-chase)
 {: #social-links .inline-list}
 
-tech product consultant & developer [[upwork]](https://www.upwork.com/freelancers/~01dbdbcc5a2c375fda) [[toptal]](https://www.toptal.com/resume/andrew-chase)
+Software developer focusing on startups. B.Sc. CS, MBA Candidate.
+
 {: #my-title}
 
 {% include posts.html %}

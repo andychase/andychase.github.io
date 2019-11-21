@@ -14,7 +14,7 @@ layout: default
 * [[toptal]](https://www.toptal.com/resume/andrew-chase)
 {: #social-links .inline-list}
 
-Software developer focusing on startups. B.Sc. CS, MBA Candidate.
+B.Sc. CS, MBA, aCAP Candidate.
 
 {: #my-title}
 

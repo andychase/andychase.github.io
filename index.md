@@ -10,7 +10,7 @@ layout: default
 * [<i class="fa fa-flickr" aria-hidden="true"></i>
  flickr](http://www.flickr.com/photos/asperous/sets/)
 * [<i class="fa fa-envelope" aria-hidden="true"></i> <theandychase@gmail.com>](mailto:theandychase@gmail.com)
-* [[linkedin]](https://www.linkedin.com/in/chasean/)
+* * [<i class="fa fa-linkedin-square" aria-hidden="true"></i>linkedin](https://www.linkedin.com/in/chasean/)
 * [[toptal]](https://www.toptal.com/resume/andrew-chase)
 {: #social-links .inline-list}
 

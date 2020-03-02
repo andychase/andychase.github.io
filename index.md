@@ -14,7 +14,7 @@ layout: default
 * [[toptal]](https://www.toptal.com/resume/andrew-chase)
 {: #social-links .inline-list}
 
-B.Sc. CS, MBA, aCAP.
+CS, MBA, Certified Analytics Professional
 
 {: #my-title}
 

@@ -20,18 +20,6 @@ CS, MBA, Certified Analytics Professional
 
 {% include posts.html %}
 
-## Internships, Employment, & Consultancy
-
-{% for job in site.data.employment %}
--  	{% if job.icon %}
-	![{{ job.company }}](/assets/job_icons/{{ job.icon }}){:width="16px" height="16px"}
-	{% endif %}{% if job.company_website %}<a href="{{ job.company_website }}">{{ job.company }}</a>
-	{% else %}
-	<span>{{ job.company }}</span>
-	{% endif %}<span class="job-info">{{job.type}} &middot; {{job.when}}</span>
-	<p>{{ job.company_description }}</p>
-{% endfor %}{: .job-list .inline-list}
-
 ## Projects
 
 {% for project in site.data.projects %}

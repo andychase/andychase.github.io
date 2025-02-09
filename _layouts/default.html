@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=.8">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="description" content="Andy Chase from Tigard, Oregon" />
+
+    <title>{% if page.title %}{{ page.title }}{% else %}Andy Chase's website{% endif %}</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet">
+
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.0/normalize.min.css' rel='stylesheet' type='text/css' />
+    
+    <link rel="alternate" type="application/rss+xml"  title="RSS Feed for andychase.me" href="{{ "/feed.xml" | prepend: site.baseurl }}" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <style type="text/css">
+    html {
+      {% unless page.title %}
+        background-color: rgb(235, 235, 235);
+      {% endunless %}
+        font-family: "Cabin", sans-serif;
+        font-size: 10pt;
+    }
+    body { font-size: 10pt; }
+    a { text-decoration: none; }
+
+
+    #c {
+      width: 400px;
+      margin: auto;
+    }
+    a, a:hover, a:visited {
+      color: #363636;
+      font-size: 10pt;
+    }
+    a {
+      border-bottom: 1px solid;
+    }
+    ul.inline-list  { list-style: none; padding: 0; }
+    ul.inline-list  li { display: inline-block; margin: 5px; }
+    img {
+      border-radius: 2px;
+    }
+    @media only screen and (-webkit-min-device-pixel-ratio: 2) {
+     html {
+    background-size: 140px 140px;
+     }
+    }
+    article p, article h1, article h2, article h3, article h4 {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+    article img {
+      margin-left: -5px;
+      margin-right: -5px;
+    }
+
+    #social-links, #andy-chase, #my-title {
+      margin-top: 0;
+      margin-bottom: 3px;
+    }
+    #social-links li {
+      margin: 0 1px;
+    }
+    .project-item {
+      border: 1px solid #d4d4d4;
+      background-color: white;
+      border-radius: 3px;
+      margin-top: 0;
+      margin-bottom: 0;
+      position: relative;
+    }
+    .job-info, .project-info {
+      font-size: 9pt;
+      padding-left: 5px;
+    }
+    .job-info { float: right; }
+    .job-list p { margin: 0;}
+    .job-list li { width: 100%; }
+    .rss-subscribe {margin: 0;}
+    .show-bullets, .show-bullets ul {list-style: circle; margin-left: 20px;}
+    .show-bullets li {display: list-item;}
+    </style>
+</head>
+<body>
+<div id="c">
+{{ content }}
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-83293503-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
